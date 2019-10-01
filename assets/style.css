@@ -1,6 +1,12 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
 body{
     background-image: url('images/stars.jpg');
     color: mistyrose;
+    margin-bottom: 60px;
     
 }
 p{
@@ -18,3 +24,12 @@ p{
 .navbar{
     border-bottom: 2px solid pink;
 }
+.container {
+  
+    padding: 0 15px;
+  }
+  
+  .footer {
+      
+      background-color: #000;
+  }
