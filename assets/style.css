@@ -6,7 +6,7 @@ html{
 body{
     background-image: url('images/stars.jpg');
     color: mistyrose;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     
 }
 p{
@@ -25,7 +25,6 @@ p{
     border-bottom: 2px solid pink;
 }
 .container {
-  
     padding: 0 15px;
   }
   
@@ -36,4 +35,5 @@ p{
       color: mistyrose;
       border-top: 1px solid pink;
       background-color: #000;
+      text-align: center;
   }
