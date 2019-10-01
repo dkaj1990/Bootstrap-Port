@@ -1,0 +1,20 @@
+body{
+    background-image: url('images/stars.jpg');
+    color: mistyrose;
+    
+}
+p{
+    color: mistyrose;
+    
+}
+.body{
+    background-color: black;
+}
+.big-banner{
+    background-color: transparent;
+    color: mistyrose;
+    text-align: center;
+}
+.navbar{
+    border-bottom: 2px solid pink;
+}
