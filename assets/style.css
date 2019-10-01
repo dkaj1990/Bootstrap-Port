@@ -30,6 +30,10 @@ p{
   }
   
   .footer {
-      
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      color: mistyrose;
+      border-top: 1px solid pink;
       background-color: #000;
   }
